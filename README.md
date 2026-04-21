@@ -93,7 +93,7 @@ Two techniques were applied:
 - Scikit-learn  
 
 ---
-![EDA](images/image.png)
+![EDA](image.png)
 ## Conclusion
 This project highlights the importance of proper data preprocessing and feature engineering in machine learning. Even when patterns are not immediately visible, transformations and feature construction help uncover meaningful insights.
 
